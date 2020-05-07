@@ -1,0 +1,76 @@
+﻿@model IEnumerable<InsideAirBNB.Models.Neighbourhoods>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Index</h1>
+
+<script type="text/javascript">
+    function AlertName(name) {
+        alert('Wat een mooie naam ' + name + "!");
+    }
+</script>
+
+<p>well hello here comes my test</p>
+<button onclick="AlertName('Tim')">Tim</button>
+<button onclick="AlertName('Tom')">Tom</button>
+
+<script src='https://api.mapbox.com/mapbox.js/v3.3.1/mapbox.js'></script>
+<link href='https://api.mapbox.com/mapbox.js/v3.3.1/mapbox.css' rel='stylesheet' />
+<style>
+    body {
+        margin: 0;
+        padding: 0;
+    }
+
+    #map {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        width: 40%;
+        height: 40%;
+    }
+</style>
+
+<div id='map'></div>
+<script>
+    L.mapbox.accessToken = 'pk.eyJ1IjoidGltMzYzIiwiYSI6ImNrOW1yYjN6ajA3enUza3MwMmJwbTk0MGYifQ.Lk-6Gc9r6Cjg-heLLQoVIA';
+    var map = L.mapbox.map('map')
+        .setView([40, -74.50], 9)
+        .addLayer(L.mapbox.styleLayer('mapbox://styles/mapbox/streets-v11'));
+</script>
+
+
+
+<p>test finished (:</p>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.NeighbourhoodGroup)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Neighbourhood)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Neighbourhood">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.Neighbourhood">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Neighbourhood">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
