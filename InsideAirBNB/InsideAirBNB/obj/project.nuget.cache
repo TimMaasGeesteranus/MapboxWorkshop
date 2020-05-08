@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gTLJ+6XceZxHNSGgGYkAQKdFowl4zNkPexUu578Rfo9aPvM3FqVhd0o4DvgaZ/I3CWEy1l+lXNjKukSBVquHfA==",
+  "dgSpecHash": "JHsScgPEDRo+ZCm/FWeesGPXDDg6TFeAYGNeWkUoggrNQxHJ/lIbNt86Eg0czWy2uGmXHbbqD5VwEeFI82zYKQ==",
   "success": true,
-  "projectFilePath": "E:\\Studie 19-20\\NOTS-WAPP\\InsideAirBNB\\code\\InsideAirBNB\\InsideAirBNB\\InsideAirBNB.csproj",
+  "projectFilePath": "E:\\Studie 19-20\\NOTS-WAPP\\Workshops\\MapBox\\MapboxWorkshop\\InsideAirBNB\\InsideAirBNB\\InsideAirBNB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tim Maas Gesteranus\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Tim Maas Gesteranus\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\5.0.0-preview.2.20160.3\\microsoft.aspnetcore.mvc.razor.extensions.5.0.0-preview.2.20160.3.nupkg.sha512",

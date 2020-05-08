@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Studie 19-20\\NOTS-WAPP\\InsideAirBNB\\code\\InsideAirBNB\\InsideAirBNB\\InsideAirBNB.csproj": {}
+    "E:\\Studie 19-20\\NOTS-WAPP\\Workshops\\MapBox\\MapboxWorkshop\\InsideAirBNB\\InsideAirBNB\\InsideAirBNB.csproj": {}
   },
   "projects": {
-    "E:\\Studie 19-20\\NOTS-WAPP\\InsideAirBNB\\code\\InsideAirBNB\\InsideAirBNB\\InsideAirBNB.csproj": {
+    "E:\\Studie 19-20\\NOTS-WAPP\\Workshops\\MapBox\\MapboxWorkshop\\InsideAirBNB\\InsideAirBNB\\InsideAirBNB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Studie 19-20\\NOTS-WAPP\\InsideAirBNB\\code\\InsideAirBNB\\InsideAirBNB\\InsideAirBNB.csproj",
+        "projectUniqueName": "E:\\Studie 19-20\\NOTS-WAPP\\Workshops\\MapBox\\MapboxWorkshop\\InsideAirBNB\\InsideAirBNB\\InsideAirBNB.csproj",
         "projectName": "InsideAirBNB",
-        "projectPath": "E:\\Studie 19-20\\NOTS-WAPP\\InsideAirBNB\\code\\InsideAirBNB\\InsideAirBNB\\InsideAirBNB.csproj",
+        "projectPath": "E:\\Studie 19-20\\NOTS-WAPP\\Workshops\\MapBox\\MapboxWorkshop\\InsideAirBNB\\InsideAirBNB\\InsideAirBNB.csproj",
         "packagesPath": "C:\\Users\\Tim Maas Gesteranus\\.nuget\\packages\\",
-        "outputPath": "E:\\Studie 19-20\\NOTS-WAPP\\InsideAirBNB\\code\\InsideAirBNB\\InsideAirBNB\\obj\\",
+        "outputPath": "E:\\Studie 19-20\\NOTS-WAPP\\Workshops\\MapBox\\MapboxWorkshop\\InsideAirBNB\\InsideAirBNB\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
