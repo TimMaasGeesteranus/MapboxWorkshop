@@ -52,7 +52,7 @@ namespace InsideAirBNB
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Neighbourhoods}/{action=Index}/{id?}");
+                    pattern: "{controller=Listings}/{action=Index}/{id?}");
             });
         }
     }
