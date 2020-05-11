@@ -897,3 +897,8 @@ E:\Studie 19-20\NOTS-WAPP\Workshops\MapBox\MapboxWorkshop\InsideAirBNB\InsideAir
 E:\Studie 19-20\NOTS-WAPP\Workshops\MapBox\MapboxWorkshop\InsideAirBNB\InsideAirBNB\obj\Debug\netcoreapp5.0\Razor\Views\Listings\Details.cshtml.g.cs
 E:\Studie 19-20\NOTS-WAPP\Workshops\MapBox\MapboxWorkshop\InsideAirBNB\InsideAirBNB\obj\Debug\netcoreapp5.0\Razor\Views\Listings\Edit.cshtml.g.cs
 E:\Studie 19-20\NOTS-WAPP\Workshops\MapBox\MapboxWorkshop\InsideAirBNB\InsideAirBNB\obj\Debug\netcoreapp5.0\Razor\Views\Listings\Index.cshtml.g.cs
+E:\Studie 19-20\NOTS-WAPP\Workshops\MapBox\MapboxWorkshop\InsideAirBNB\InsideAirBNB\obj\Debug\netcoreapp5.0\Razor\Views\SummaryListings\Create.cshtml.g.cs
+E:\Studie 19-20\NOTS-WAPP\Workshops\MapBox\MapboxWorkshop\InsideAirBNB\InsideAirBNB\obj\Debug\netcoreapp5.0\Razor\Views\SummaryListings\Delete.cshtml.g.cs
+E:\Studie 19-20\NOTS-WAPP\Workshops\MapBox\MapboxWorkshop\InsideAirBNB\InsideAirBNB\obj\Debug\netcoreapp5.0\Razor\Views\SummaryListings\Details.cshtml.g.cs
+E:\Studie 19-20\NOTS-WAPP\Workshops\MapBox\MapboxWorkshop\InsideAirBNB\InsideAirBNB\obj\Debug\netcoreapp5.0\Razor\Views\SummaryListings\Edit.cshtml.g.cs
+E:\Studie 19-20\NOTS-WAPP\Workshops\MapBox\MapboxWorkshop\InsideAirBNB\InsideAirBNB\obj\Debug\netcoreapp5.0\Razor\Views\SummaryListings\Index.cshtml.g.cs
