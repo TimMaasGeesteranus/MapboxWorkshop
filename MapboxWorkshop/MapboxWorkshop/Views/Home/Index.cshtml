@@ -1,0 +1,45 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">hallo!</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<script src='https://api.mapbox.com/mapbox.js/v3.3.1/mapbox.js'></script>
+<link href='https://api.mapbox.com/mapbox.js/v3.3.1/mapbox.css' rel='stylesheet' />
+
+<div id='map'></div>
+
+<style>
+    #map {
+        position: absolute;
+        width: 80%;
+        height: 50%;
+    }
+
+    .marker {
+        background-image: url('https://www.quantmania.nl/wp-content/uploads/2018/02/map-marker-icon-300x300.png');
+        background-size: cover;
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+        cursor: pointer;
+    }
+</style>
+
+<script>
+    L.mapbox.accessToken = 'pk.eyJ1IjoidGltMzYzIiwiYSI6ImNrOW1yYjN6ajA3enUza3MwMmJwbTk0MGYifQ.Lk-6Gc9r6Cjg-heLLQoVIA';
+    var map = L.mapbox.map('map')
+        .setView([51.983047, 5.903408], 12)
+        .addLayer(L.mapbox.styleLayer('mapbox://styles/mapbox/streets-v11'));
+
+    var marker = L.divIcon({
+        className: 'marker',
+        iconSize: [60, 60]
+    });
+
+    L.marker([51.988769, 5.949507], { icon: marker }).addTo(map);
+</script>
+
