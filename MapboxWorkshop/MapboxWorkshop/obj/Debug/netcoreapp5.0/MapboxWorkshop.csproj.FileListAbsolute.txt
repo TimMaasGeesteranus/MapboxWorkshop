@@ -35,3 +35,40 @@ C:\Users\Tim Maas Gesteranus\Desktop\MapboxWorkshop\MapboxWorkshop\obj\Debug\net
 C:\Users\Tim Maas Gesteranus\Desktop\MapboxWorkshop\MapboxWorkshop\obj\Debug\netcoreapp5.0\MapboxWorkshop.pdb
 C:\Users\Tim Maas Gesteranus\Desktop\MapboxWorkshop\MapboxWorkshop\obj\Debug\netcoreapp5.0\MapboxWorkshop.genruntimeconfig.cache
 C:\Users\Tim Maas Gesteranus\Desktop\MapboxWorkshop\MapboxWorkshop\obj\Debug\netcoreapp5.0\MapboxWorkshop.csproj.CopyComplete
+E:\Studie 19-20\NOTS-WAPP\Workshops\MapBox\MapboxWorkshop\MapboxWorkshop\MapboxWorkshop\bin\Debug\netcoreapp5.0\appsettings.Development.json
+E:\Studie 19-20\NOTS-WAPP\Workshops\MapBox\MapboxWorkshop\MapboxWorkshop\MapboxWorkshop\bin\Debug\netcoreapp5.0\appsettings.json
+E:\Studie 19-20\NOTS-WAPP\Workshops\MapBox\MapboxWorkshop\MapboxWorkshop\MapboxWorkshop\bin\Debug\netcoreapp5.0\Properties\launchSettings.json
+E:\Studie 19-20\NOTS-WAPP\Workshops\MapBox\MapboxWorkshop\MapboxWorkshop\MapboxWorkshop\bin\Debug\netcoreapp5.0\MapboxWorkshop.exe
+E:\Studie 19-20\NOTS-WAPP\Workshops\MapBox\MapboxWorkshop\MapboxWorkshop\MapboxWorkshop\bin\Debug\netcoreapp5.0\MapboxWorkshop.deps.json
+E:\Studie 19-20\NOTS-WAPP\Workshops\MapBox\MapboxWorkshop\MapboxWorkshop\MapboxWorkshop\bin\Debug\netcoreapp5.0\MapboxWorkshop.runtimeconfig.json
+E:\Studie 19-20\NOTS-WAPP\Workshops\MapBox\MapboxWorkshop\MapboxWorkshop\MapboxWorkshop\bin\Debug\netcoreapp5.0\MapboxWorkshop.runtimeconfig.dev.json
+E:\Studie 19-20\NOTS-WAPP\Workshops\MapBox\MapboxWorkshop\MapboxWorkshop\MapboxWorkshop\bin\Debug\netcoreapp5.0\MapboxWorkshop.dll
+E:\Studie 19-20\NOTS-WAPP\Workshops\MapBox\MapboxWorkshop\MapboxWorkshop\MapboxWorkshop\bin\Debug\netcoreapp5.0\MapboxWorkshop.pdb
+E:\Studie 19-20\NOTS-WAPP\Workshops\MapBox\MapboxWorkshop\MapboxWorkshop\MapboxWorkshop\bin\Debug\netcoreapp5.0\MapboxWorkshop.Views.dll
+E:\Studie 19-20\NOTS-WAPP\Workshops\MapBox\MapboxWorkshop\MapboxWorkshop\MapboxWorkshop\bin\Debug\netcoreapp5.0\MapboxWorkshop.Views.pdb
+E:\Studie 19-20\NOTS-WAPP\Workshops\MapBox\MapboxWorkshop\MapboxWorkshop\MapboxWorkshop\obj\Debug\netcoreapp5.0\MapboxWorkshop.csprojAssemblyReference.cache
+E:\Studie 19-20\NOTS-WAPP\Workshops\MapBox\MapboxWorkshop\MapboxWorkshop\MapboxWorkshop\obj\Debug\netcoreapp5.0\MapboxWorkshop.AssemblyInfoInputs.cache
+E:\Studie 19-20\NOTS-WAPP\Workshops\MapBox\MapboxWorkshop\MapboxWorkshop\MapboxWorkshop\obj\Debug\netcoreapp5.0\MapboxWorkshop.AssemblyInfo.cs
+E:\Studie 19-20\NOTS-WAPP\Workshops\MapBox\MapboxWorkshop\MapboxWorkshop\MapboxWorkshop\obj\Debug\netcoreapp5.0\MapboxWorkshop.csproj.CoreCompileInputs.cache
+E:\Studie 19-20\NOTS-WAPP\Workshops\MapBox\MapboxWorkshop\MapboxWorkshop\MapboxWorkshop\obj\Debug\netcoreapp5.0\MapboxWorkshop.MvcApplicationPartsAssemblyInfo.cache
+E:\Studie 19-20\NOTS-WAPP\Workshops\MapBox\MapboxWorkshop\MapboxWorkshop\MapboxWorkshop\obj\Debug\netcoreapp5.0\MapboxWorkshop.RazorAssemblyInfo.cache
+E:\Studie 19-20\NOTS-WAPP\Workshops\MapBox\MapboxWorkshop\MapboxWorkshop\MapboxWorkshop\obj\Debug\netcoreapp5.0\MapboxWorkshop.RazorAssemblyInfo.cs
+E:\Studie 19-20\NOTS-WAPP\Workshops\MapBox\MapboxWorkshop\MapboxWorkshop\MapboxWorkshop\obj\Debug\netcoreapp5.0\MapboxWorkshop.TagHelpers.input.cache
+E:\Studie 19-20\NOTS-WAPP\Workshops\MapBox\MapboxWorkshop\MapboxWorkshop\MapboxWorkshop\obj\Debug\netcoreapp5.0\MapboxWorkshop.TagHelpers.output.cache
+E:\Studie 19-20\NOTS-WAPP\Workshops\MapBox\MapboxWorkshop\MapboxWorkshop\MapboxWorkshop\obj\Debug\netcoreapp5.0\MapboxWorkshop.RazorCoreGenerate.cache
+E:\Studie 19-20\NOTS-WAPP\Workshops\MapBox\MapboxWorkshop\MapboxWorkshop\MapboxWorkshop\obj\Debug\netcoreapp5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\Studie 19-20\NOTS-WAPP\Workshops\MapBox\MapboxWorkshop\MapboxWorkshop\MapboxWorkshop\obj\Debug\netcoreapp5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Studie 19-20\NOTS-WAPP\Workshops\MapBox\MapboxWorkshop\MapboxWorkshop\MapboxWorkshop\obj\Debug\netcoreapp5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Studie 19-20\NOTS-WAPP\Workshops\MapBox\MapboxWorkshop\MapboxWorkshop\MapboxWorkshop\obj\Debug\netcoreapp5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Studie 19-20\NOTS-WAPP\Workshops\MapBox\MapboxWorkshop\MapboxWorkshop\MapboxWorkshop\obj\Debug\netcoreapp5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Studie 19-20\NOTS-WAPP\Workshops\MapBox\MapboxWorkshop\MapboxWorkshop\MapboxWorkshop\obj\Debug\netcoreapp5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Studie 19-20\NOTS-WAPP\Workshops\MapBox\MapboxWorkshop\MapboxWorkshop\MapboxWorkshop\obj\Debug\netcoreapp5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Studie 19-20\NOTS-WAPP\Workshops\MapBox\MapboxWorkshop\MapboxWorkshop\MapboxWorkshop\obj\Debug\netcoreapp5.0\MapboxWorkshop.RazorTargetAssemblyInfo.cache
+E:\Studie 19-20\NOTS-WAPP\Workshops\MapBox\MapboxWorkshop\MapboxWorkshop\MapboxWorkshop\obj\Debug\netcoreapp5.0\MapboxWorkshop.RazorTargetAssemblyInfo.cs
+E:\Studie 19-20\NOTS-WAPP\Workshops\MapBox\MapboxWorkshop\MapboxWorkshop\MapboxWorkshop\obj\Debug\netcoreapp5.0\MapboxWorkshop.Views.pdb
+E:\Studie 19-20\NOTS-WAPP\Workshops\MapBox\MapboxWorkshop\MapboxWorkshop\MapboxWorkshop\obj\Debug\netcoreapp5.0\staticwebassets\MapboxWorkshop.StaticWebAssets.Manifest.cache
+E:\Studie 19-20\NOTS-WAPP\Workshops\MapBox\MapboxWorkshop\MapboxWorkshop\MapboxWorkshop\obj\Debug\netcoreapp5.0\staticwebassets\MapboxWorkshop.StaticWebAssets.xml
+E:\Studie 19-20\NOTS-WAPP\Workshops\MapBox\MapboxWorkshop\MapboxWorkshop\MapboxWorkshop\obj\Debug\netcoreapp5.0\MapboxWorkshop.dll
+E:\Studie 19-20\NOTS-WAPP\Workshops\MapBox\MapboxWorkshop\MapboxWorkshop\MapboxWorkshop\obj\Debug\netcoreapp5.0\MapboxWorkshop.pdb
+E:\Studie 19-20\NOTS-WAPP\Workshops\MapBox\MapboxWorkshop\MapboxWorkshop\MapboxWorkshop\obj\Debug\netcoreapp5.0\MapboxWorkshop.genruntimeconfig.cache
+E:\Studie 19-20\NOTS-WAPP\Workshops\MapBox\MapboxWorkshop\MapboxWorkshop\MapboxWorkshop\obj\Debug\netcoreapp5.0\MapboxWorkshop.csproj.CopyComplete

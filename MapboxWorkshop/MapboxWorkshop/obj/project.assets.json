@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tim Maas Gesteranus\\Desktop\\MapboxWorkshop\\MapboxWorkshop\\MapboxWorkshop.csproj",
+      "projectUniqueName": "E:\\Studie 19-20\\NOTS-WAPP\\Workshops\\MapBox\\MapboxWorkshop\\MapboxWorkshop\\MapboxWorkshop\\MapboxWorkshop.csproj",
       "projectName": "MapboxWorkshop",
-      "projectPath": "C:\\Users\\Tim Maas Gesteranus\\Desktop\\MapboxWorkshop\\MapboxWorkshop\\MapboxWorkshop.csproj",
+      "projectPath": "E:\\Studie 19-20\\NOTS-WAPP\\Workshops\\MapBox\\MapboxWorkshop\\MapboxWorkshop\\MapboxWorkshop\\MapboxWorkshop.csproj",
       "packagesPath": "C:\\Users\\Tim Maas Gesteranus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tim Maas Gesteranus\\Desktop\\MapboxWorkshop\\MapboxWorkshop\\obj\\",
+      "outputPath": "E:\\Studie 19-20\\NOTS-WAPP\\Workshops\\MapBox\\MapboxWorkshop\\MapboxWorkshop\\MapboxWorkshop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -3,7 +3,7 @@
 }
 
 <div class="text-center">
-    <h1 class="display-4">hallo!</h1>
+    <h1 class="display-4">MapboxWorkshop</h1>
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
 
@@ -40,6 +40,11 @@
         iconSize: [60, 60]
     });
 
-    L.marker([51.988769, 5.949507], { icon: marker }).addTo(map);
-</script>
+    L.marker([51.988769, 5.949507], { icon: marker })
+        .bindPopup('<p>HAN</p><button onclick="showInfo()">Meer info</button>')
+        .addTo(map);
 
+    function showInfo() {
+        alert("Hogeschool Anrhem Nijmegen");
+    }
+</script>
