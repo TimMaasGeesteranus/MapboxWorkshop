@@ -53,9 +53,14 @@
             cursor: pointer;
         }
 #### 3. Nu is het tijd om de marker toe te voegen aan de map. Voeg binnen de script tags de volgende code toe. Doe dit onder de code van stap 1, waar je de marker aanmaakt.
-    L.marker([51.988769, 5.949507], { icon: marker }).addTo(map);
+    L.marker([51.988769, 5.949507], { icon: marker })
+    	.addTo(map);
 #### 4. Sla de wijzigingen op en run de app. Je ziet nu een marker in beeld verschijnen. De marker staat midden op de HAN-campus.
-#### 5. Het zou mooi zijn als de kaart zich meteen centreert op Arnhem. Bij het aanmaken van de map heb je de code .setView([40, 0], 2) toegevoegd. De eerste twee getallen zijn coördinaten. Verander deze naar 51.983047, 5.903408.
-#### 6. De kaart centreert zich nu boven Arnhem maar is nog erg uitgezoomd. Verander dit door het derde getal van .setView te veranderen van 2 naar 12.
-#### 7. Sla de wijzigingen op en run de app. Je ziet nu meteen Arnhem in beeld.
+#### 5. We gaan nu een beschrijving van de marker toevoegen. Daarvoor voegen we een popup toe aan de marker. Voeg dit toe aan de code uit stap 3 zodat het er zo uit ziet:
+    L.marker([51.988769, 5.949507], { icon: marker }).addTo(map);
+	.bindPopup('<p>Hogeschool Arnhem</p>')
+	.addTo(map);
+#### 6. Het zou mooi zijn als de kaart zich meteen centreert op Arnhem. Bij het aanmaken van de map heb je de code .setView([40, 0], 2) toegevoegd. De eerste twee getallen zijn coördinaten. Verander deze naar 51.983047, 5.903408.
+#### 7. De kaart centreert zich nu boven Arnhem maar is nog erg uitgezoomd. Verander dit door het derde getal van .setView te veranderen van 2 naar 12.
+#### 8. Sla de wijzigingen op en run de app. Je ziet nu meteen Arnhem in beeld.
 
