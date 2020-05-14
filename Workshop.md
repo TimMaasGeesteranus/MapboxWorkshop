@@ -72,3 +72,4 @@ Voeg dit toe aan de code uit stap 3 zodat het er zo uit ziet:
 #### 8. De kaart centreert zich nu boven Arnhem maar is nog erg uitgezoomd. Verander dit door het derde getal van .setView te veranderen van 2 naar 12.
 #### 9. Sla de wijzigingen op en run de app. Je ziet nu meteen Arnhem in beeld.
 
+![resultaat](https://github.com/TimMaasGeesteranus/MapboxWorkshop/blob/master/MapboxWorkshop.png)
