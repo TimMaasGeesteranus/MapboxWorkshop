@@ -56,11 +56,19 @@
     L.marker([51.988769, 5.949507], { icon: marker })
     	.addTo(map);
 #### 4. Sla de wijzigingen op en run de app. Je ziet nu een marker in beeld verschijnen. De marker staat midden op de HAN-campus.
-#### 5. We gaan nu een beschrijving van de marker toevoegen. Daarvoor voegen we een popup toe aan de marker. Voeg dit toe aan de code uit stap 3 zodat het er zo uit ziet:
+#### 5. We gaan nu een beschrijving van de marker toevoegen. Daarvoor voegen we een popup toe aan de marker. Deze popup geeft de naam van de marker weer en een button met "meer info". Dit doen we met de code:
+	.bindPopup('<p>HAN</p><button onclick="showInfo()">Meer info</button>')
+
+Voeg dit toe aan de code uit stap 3 zodat het er zo uit ziet:
+
     L.marker([51.988769, 5.949507], { icon: marker }).addTo(map);
-	.bindPopup('<p>Hogeschool Arnhem</p>')
+	.bindPopup('<p>HAN</p><button onclick="showInfo()">Meer info</button>')
 	.addTo(map);
-#### 6. Het zou mooi zijn als de kaart zich meteen centreert op Arnhem. Bij het aanmaken van de map heb je de code .setView([40, 0], 2) toegevoegd. De eerste twee getallen zijn coördinaten. Verander deze naar 51.983047, 5.903408.
-#### 7. De kaart centreert zich nu boven Arnhem maar is nog erg uitgezoomd. Verander dit door het derde getal van .setView te veranderen van 2 naar 12.
-#### 8. Sla de wijzigingen op en run de app. Je ziet nu meteen Arnhem in beeld.
+#### 6. Zoals je ziet hebben we een button toegevoegd. Als op de button geklikt wordt, wordt de functie "showinfo()" aangeroepen. Laten we deze functie maken. Voor nu zetten we alleen een alert in de functie.
+	function showInfo(){
+		alert("Hogeschool Arnhem Nijmegen");
+	}
+#### 7. Het zou mooi zijn als de kaart zich meteen centreert op Arnhem. Bij het aanmaken van de map heb je de code .setView([40, 0], 2) toegevoegd. De eerste twee getallen zijn coördinaten. Verander deze naar 51.983047, 5.903408.
+#### 8. De kaart centreert zich nu boven Arnhem maar is nog erg uitgezoomd. Verander dit door het derde getal van .setView te veranderen van 2 naar 12.
+#### 9. Sla de wijzigingen op en run de app. Je ziet nu meteen Arnhem in beeld.
 
