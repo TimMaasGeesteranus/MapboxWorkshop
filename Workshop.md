@@ -18,7 +18,7 @@
 #### 2. Mapbox werkt met Javascript. Voeg de volgende twee lijnen code toe:
 	<script src='https://api.mapbox.com/mapbox.js/v3.3.1/mapbox.js'></script>
 	<link href='https://api.mapbox.com/mapbox.js/v3.3.1/mapbox.css' rel='stylesheet' />
-#### 3. Voeg nu script-tags toe. Hierbinnen komt alle code van je map.
+#### 3. Voeg nu script-tags toe. Hierbinnen komt alle code van je map. 
 #### 4. We beginnen met je persoonlijke token. Deze kun je op de site van Mapbox op je accountpagina vinden. Voeg deze code toe en zet op de plek van abc123 je persoonlijke token
     	L.mapbox.accessToken = 'abc123';
 #### 5. Nu gaan we de map aanmaken. Dit doen we met onderstaande code:
@@ -34,6 +34,7 @@
     	}
 #### 8. Nu hoeven we alleen nog maar te zorgen dat de map wordt weergegeven op de pagina. Voeg hiervoor een div toe:
 	<div id='map'></div>
+**!Zorg ervoor dat deze div tags boven de `script` tags van stap 3 staan!**
 #### 9. Sla de wijzigingen op en run de app. Je krijg nu een wereldkaart in beeld. 
 
 ## Een marker toevoegen
